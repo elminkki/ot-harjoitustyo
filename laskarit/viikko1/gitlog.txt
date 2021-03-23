@@ -1,0 +1,113 @@
+commit 19de422d72ff6685d4c4052b3271db1d28ead9b3
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:24:43 2021 +0200
+
+    files
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53fdf31f4e9ae93b82ad42c23023a801d7c16e9a
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:18:23 2021 +0200
+
+    tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e1f95374d3dccc12a0f2a301a492dc84406781fe
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:14:43 2021 +0200
+
+    -p flagin käyttö
+
+ eka.txt    |  6 +-----
+ kolmas.txt | 15 ++++++++++++++-
+ 2 files changed, 15 insertions(+), 6 deletions(-)
+
+commit fff1d19b4717830c5d881db30affd664e339f232
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:12:15 2021 +0200
+
+    nimen muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e0f8766fc6e74a0e7e1c0d0defbea86e759d7edc
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:11:20 2021 +0200
+
+    toisen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 94070ae671459a63d8d4210208a9eaaf28e3a5e9
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:10:06 2021 +0200
+
+    tekstin muokkaus
+
+ tiedosto.txt | 9 ++++-----
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+
+commit b9d502fe640b2d038eef57b31691219c495bcb6d
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:08:06 2021 +0200
+
+    paljon tekstiä
+
+ tiedosto.txt | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+
+commit a842aed153b59ddc9911ec6d725944ec4305e54b
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:03:59 2021 +0200
+
+    stuff
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 47b1825e1a27035bdda8f6264588805030735481
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:02:58 2021 +0200
+
+    toisen ja kolmannen muutokset
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 075c93eef5b7d001d8a18c2a8faa2b58c71eff3f
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 20:01:34 2021 +0200
+
+    kolmas lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 058c7a7ff9bdb88e1cd3ac5478b9922f188a0045
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 19:59:35 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 990aa3daa923e967f56a8b3900419f0b16600c0e
+Author: elminkki <minkkinen.elmo@gmail.com>
+Date:   Tue Mar 23 19:58:11 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
